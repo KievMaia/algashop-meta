@@ -4,3 +4,6 @@
 [submodule "docs/docs/algashop-docs"]
 	path = docs/docs/algashop-docs
 	url = https://github.com/KievMaia/algashop-docs.git
+[submodule "docs/algashop-docs"]
+	path = docs/algashop-docs
+	url = https://github.com/KievMaia/algashop-docs.git
